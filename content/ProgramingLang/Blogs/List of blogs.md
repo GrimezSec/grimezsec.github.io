@@ -1,3 +1,0 @@
-
-* https://research.swtch.com/
-* 
