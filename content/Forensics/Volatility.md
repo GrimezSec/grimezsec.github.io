@@ -1,3 +1,10 @@
+---
+title: Volatility Usage
+draft: false
+tags:
+  - memory-forensics
+---
+
 Volatility Usage
 
 Volatility Image Profile
