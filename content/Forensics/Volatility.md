@@ -2,7 +2,7 @@ Volatility Usage
 
 Volatility Image Profile
 
->$ volatility -f <example.raw> image info
+>$ volatility -f <example.raw> imageinfo
 
 Volatility Process List
 
