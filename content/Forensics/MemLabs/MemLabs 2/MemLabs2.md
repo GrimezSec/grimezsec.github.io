@@ -42,8 +42,11 @@ When you browse history there is a link "https://mega.nz/#F!TrgSQQTS!H0ZrUzF0B-Z
 ![[Screenshot from 2024-01-12 15-13-23.png]]
 Let's check the link, there is a file named Important.zip. Try to unzip it
 ![[Screenshot from 2024-01-12 15-15-46.png]]
+
 This zip archive is password protected. But there is a hint 
+
 ![[Pasted image 20240112151746.png]]
+
 Encode stage 3 flag from lab1 with sha and here is the password for zip archive
 ![[Screenshot from 2024-01-12 15-25-00.png]]
 And there is the last flag in Lab 2
