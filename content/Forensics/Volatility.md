@@ -101,3 +101,7 @@ Volatility Chrome History (Download [https://github.com/superponible/volatility-
 or
 
 extract browser history file and open it in SQLite
+
+
+Volatility Internet Explorer History
+>$ volatility -f <example.raw> --profile=<profile> iehistory
