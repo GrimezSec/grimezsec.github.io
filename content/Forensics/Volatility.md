@@ -1,3 +1,9 @@
+---
+tags:
+  - memory-forensics
+  - threat-hunting
+  - volatility
+---
 Volatility Usage
 
 Volatility Image Profile

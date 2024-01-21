@@ -1,4 +1,10 @@
-
+---
+tags:
+  - forensics
+  - cyber
+  - memory-forensics
+  - threat-hunting
+---
 ---------------------------
 
 **Challenge Description**

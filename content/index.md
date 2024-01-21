@@ -1,3 +1,11 @@
+---
+tags:
+  - index
+  - cyber
+  - forensics
+  - memory-forensics
+  - threat-hunting
+---
 # Akın's Second Brain 🧠
 
 Hello, I am Akın, a Cyber Security Trainee, and I am building my own knowledge ecosystem in this digital garden. Here, I share the information I have gained in areas such as cybersecurity, threat hunting, malware analysis, and digital forensics.
