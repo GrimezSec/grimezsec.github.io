@@ -1,12 +1,3 @@
----
-tags:
-  - ctf
-  - cyber
-  - forensics
-  - memory-forensics
-  - threat-hunting
-  - volatility
----
 
 --------------
 **Challenge Description**

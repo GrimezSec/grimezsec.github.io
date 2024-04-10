@@ -1,12 +1,3 @@
----
-tags:
-  - cyber
-  - forensics
-  - memory-forensics
-  - threat-hunting
-  - volatility
-  - ctf
----
 [MemLabs](https://github.com/stuxnet999/MemLabs) 
 ## **About MemLabs** 🔍
 

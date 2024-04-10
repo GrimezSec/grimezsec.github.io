@@ -1,9 +1,3 @@
----
-tags:
-  - devops
-  - devsecops
-  - security
----
 
 Useful links:
 
