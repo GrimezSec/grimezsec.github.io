@@ -5,6 +5,9 @@ tags:
   - forensics
   - memory-forensics
   - threat-hunting
+  - devsecops
+  - security
+  - devops
 ---
 # Akın's Second Brain 🧠
 
